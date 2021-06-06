@@ -1,14 +1,16 @@
 require 'pry'
 
 class Dog 
-    def bark
+
+    def bark 
         puts "Woof!"
-      end
-end
+    end  
 
 
-class Dog 
-    def sit
-        puts "The Dog is sitting"
+    def sit 
+        puts "The Dog is sitting"   
     end
+    
+
 end
+
